@@ -1,6 +1,6 @@
-link web: https://namhuynh2000.github.io/Covid-19-Tracker/
-link api: https://documenter.getpostman.com/view/10808728/SzS8rjbc#b07f97ba-24f4-4ebe-ad71-97fa35f3b683
-link reference: https://www.youtube.com/watch?v=EyV9fqoWhzc&t=1s
+link web: https://namhuynh2000.github.io/Covid-19-Tracker/ \
+link api: https://documenter.getpostman.com/view/10808728/SzS8rjbc#b07f97ba-24f4-4ebe-ad71-97fa35f3b683 \
+link reference: https://www.youtube.com/watch?v=EyV9fqoWhzc&t=1s \
 
 # Getting Started with Create React App
 
